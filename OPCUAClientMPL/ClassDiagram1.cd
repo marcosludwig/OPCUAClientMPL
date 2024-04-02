@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAboutDlg">
+    <Position X="13.25" Y="7" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CAboutDlg::__unnamed_enum_0354_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>OPCUAClientMPLDlg.cpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OPCUAClientMPLDlg.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COPCUAClientMPLApp">
+    <Position X="7.5" Y="7" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>OPCUAClientMPL.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COPCUAClientMPLDlg">
+    <Position X="10" Y="0.5" Width="2.5" />
+    <NestedTypes>
+      <Enum Name="COPCUAClientMPLDlg::__unnamed_enum_0353_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>OPCUAClientMPLDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EACCBCEABQAAEAAAABAkAAQAAwgAAAQAAAemAAAQABA=</HashCode>
+      <FileName>OPCUAClientMPLDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StatusCodeException">
+    <Position X="5.25" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAQAACAAAAAAAAAAAAAAAoAAAAAACAAAA=</HashCode>
+      <FileName>StatusCodeException.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnsiCStackQuickstart::Application">
+    <Position X="3" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABACRyAAQAECAAAAAAABSADCEDMQAEAANEFAAg=</HashCode>
+      <FileName>Application.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnsiCStackQuickstart::Channel">
+    <Position X="0.5" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIQABAAggAggIAABAAAAAIAAAAAgACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Channel.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnsiCStackQuickstart::ClientApplication">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAABAAABAAAAA=</HashCode>
+      <FileName>ClientApplication.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnsiCStackQuickstart::ClientSession">
+    <Position X="5.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAgAAAABBBEgAAAAAAAIEAAE0AIAAAAAKAADA=</HashCode>
+      <FileName>ClientSession.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnsiCStackQuickstart::BrowseResult">
+    <Position X="7.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAIAAAAAACAAAAAAAAAAAABAQE=</HashCode>
+      <FileName>ClientSession.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnsiCStackQuickstart::UserTokenPolicy">
+    <Position X="0.5" Y="8.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgCAgAAAAUAAAAQAAAAEAAgAAAAAAAA=</HashCode>
+      <FileName>EndpointDescription.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnsiCStackQuickstart::EndpointDescription">
+    <Position X="7.5" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAIAAAAgIAAAAAAAAQAAAFAgAAIlAAAIAgAAAAA=</HashCode>
+      <FileName>EndpointDescription.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnsiCStackQuickstart::ServerDescription">
+    <Position X="0.5" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAASACAAEAAAAQAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>ServerDescription.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnsiCStackQuickstart::Utils">
+    <Position X="3" Y="8" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAQAAAAAAAABAAAQAAAAAAAgAAAAAABAAAQEAAAAQ=</HashCode>
+      <FileName>Utils.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="ReadAsyncCallbackData" Collapsed="true">
+    <Position X="5.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgACAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClientSession.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="_CustomDataType" Collapsed="true">
+    <Position X="5.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomDataType.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="AnsiCStackQuickstart::PfnClientSession_OnReadValue" Collapsed="true">
+    <Position X="5.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClientSession.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="CustomDataType" Collapsed="true">
+    <Position X="5.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomDataType.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="TVecEndpoints" Collapsed="true">
+    <Position X="7.75" Y="10" Width="5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OPCUAClientMPLDlg.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="TVecDataValue" Collapsed="true">
+    <Position X="7.75" Y="11.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OPCUAClientMPLDlg.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="TVecBrowseResult" Collapsed="true">
+    <Position X="7.75" Y="9.25" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OPCUAClientMPLDlg.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="TVecServerDescription" Collapsed="true">
+    <Position X="7.75" Y="8.5" Width="5.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OPCUAClientMPLDlg.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="TMapBrowseResults" Collapsed="true">
+    <Position X="7.75" Y="10.75" Width="5.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OPCUAClientMPLDlg.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
